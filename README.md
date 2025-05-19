@@ -1,5 +1,6 @@
 # 🏴‍☠️ One Piece – A Small Sail Through My Thoughts
 
+
 This was a spontaneous side quest — a random idea turned into a mini website inspired by the world of **One Piece**. Just like Luffy's journey, this project wasn't planned — it just *happened*. ⚓
 
 ## 🌊 What's Inside?
